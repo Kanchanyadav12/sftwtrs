@@ -1,0 +1,52 @@
+{
+    "transcription": " He was not able to use the two legs. So he didn't know where he was. He was hit by someone or someone else. But he didn't even have blood loss. He didn't have the dog. He went to Amit Sar. Amit Sar took him to the gym. He took all the stuff he had. Amit Sar didn't even understand what he said. He said he is a bad man. He is only a pair of men. He didn't have the blood loss. He didn't have the blood loss. He took him to the gym. He gave him the paint. He was resting. He didn't eat anything. He didn't eat anything. He just had to eat.",
+    "keywords": [
+        [
+            "sar took",
+            0.3937
+        ],
+        [
+            "sar didn",
+            0.3845
+        ],
+        [
+            "blood loss",
+            0.3828
+        ],
+        [
+            "legs didn",
+            0.3824
+        ],
+        [
+            "didn eat",
+            0.3803
+        ],
+        [
+            "didn blood",
+            0.3765
+        ],
+        [
+            "dog went",
+            0.3649
+        ],
+        [
+            "blood",
+            0.3607
+        ],
+        [
+            "sar amit",
+            0.3443
+        ],
+        [
+            "amit sar",
+            0.3383
+        ]
+    ],
+    "sentiment": [
+        {
+            "label": "NEGATIVE",
+            "score": 0.992385983467102
+        }
+    ],
+    "summary": " He was not able to use the two legs so he didn't know where he was . He was hit by someone or someone else. He didn't even have blood loss. He went to Amit Sar. Amit Sar took him to the gym. He took all the stuff he had. He said he is a bad man. He is only a pair of men."
+}
